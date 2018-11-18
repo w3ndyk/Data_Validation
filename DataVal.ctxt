@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DataVal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str
+comment2.target=boolean\ allAlpha(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ isNumString(java.lang.String)
+comment4.params=str
+comment4.target=boolean\ validName(java.lang.String)
+comment5.params=str
+comment5.target=boolean\ validZipCode(java.lang.String)
+comment6.params=str
+comment6.target=boolean\ validBirthYear(java.lang.String)
+comment7.params=str
+comment7.target=boolean\ validPhoneNum(java.lang.String)
+comment8.params=str
+comment8.target=boolean\ validEmail(java.lang.String)
+comment9.params=str
+comment9.target=boolean\ validPassword(java.lang.String)
+numComments=10
